@@ -89,7 +89,7 @@
     "jc5/google2fa-laravel": "^2.0",
     "jc5/recovery": "^2",
     "laravel/framework": "^9",
-    "laravel/passport": "10.*",
+    "laravel/passport": "11.*",
     "laravel/sanctum": "^2.14",
     "laravel/ui": "^3.4",
     "laravelcollective/html": "6.*",
